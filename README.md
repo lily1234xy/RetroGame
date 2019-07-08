@@ -5,7 +5,7 @@
 + Tingyu Pan - note taker, documentation checker, tricky android code
 
 ## Game Summary
-![Image of Screenshoot](https://gitlab.cecs.anu.edu.au/u6485142/RetroGame2018s1/raw/master/app/src/main/Screenshot.png)
+![Image of Screenshoot](https://github.com/lily1234xy/RetroGame/blob/master/app/src/main/Screenshot.png)
 
 _This game was built by Android studio and running on Android 7.0+. 
 Raiden is a retro shooting game. Our Raiden game is developed based on the basic function of the retro game.
@@ -17,12 +17,6 @@ The enemy planes will come out from the top of the screen and shoot. Red award c
 + [Design Summary](https://gitlab.cecs.anu.edu.au/u6485142/RetroGame2018s1/blob/master/app/src/design%20summary.md)
 + [UML Diagram](https://gitlab.cecs.anu.edu.au/u6485142/RetroGame2018s1/blob/master/app/src/RaidenGameUML.xmi)
 + [Testing Summary](https://gitlab.cecs.anu.edu.au/u6485142/RetroGame2018s1/blob/master/app/src/testing%20summary.md)
-
-## Meeting Minutes
-+ [Meeting 1 - 22/4 - decide team structure and game](https://gitlab.cecs.anu.edu.au/u6485142/RetroGame2018s1/blob/master/app/src/meeting1.docx)
-+ [Meeting 2 - 26/4 - decide functions and deal with issues](https://gitlab.cecs.anu.edu.au/u6485142/RetroGame2018s1/blob/master/app/src/meeting2.docx)
-+ [Meeting 3 - 11/5 - consider and plan extension aspects](https://gitlab.cecs.anu.edu.au/u6485142/RetroGame2018s1/blob/master/app/src/meeting3.docx)
-+ [Meeting 4 - 16/5 - review and practice demo](https://gitlab.cecs.anu.edu.au/u6485142/RetroGame2018s1/blob/master/app/src/meeting4.docx)
 
 ### Inspiration
 _The idea of how to get the coordinate of the player in real time 
