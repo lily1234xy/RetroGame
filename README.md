@@ -1,8 +1,8 @@
 ## Team structure and roles
-+ Wei Wang u6485142 - team leader, morale builder, build initial frame, user input, debug
-+ Yuehan Zhao u6417810 - tricky android code, game state, help page code, game graphics rendering, modified all code and provide assistance.
-+ Min Liu  u6339307 - tricky android code, note taker, user input documentation checker
-+ Tingyu Pan u6259941 - note taker, documentation checker, tricky android code
++ Wei Wang - team leader, morale builder, build initial frame, user input, debug
++ Yuehan Zhao - tricky android code, game state, help page code, game graphics rendering, modified all code and provide assistance.
++ Min Liu  - tricky android code, note taker, user input documentation checker
++ Tingyu Pan - note taker, documentation checker, tricky android code
 
 ## Game Summary
 ![Image of Screenshoot](https://gitlab.cecs.anu.edu.au/u6485142/RetroGame2018s1/raw/master/app/src/main/Screenshot.png)
@@ -23,20 +23,6 @@ The enemy planes will come out from the top of the screen and shoot. Red award c
 + [Meeting 2 - 26/4 - decide functions and deal with issues](https://gitlab.cecs.anu.edu.au/u6485142/RetroGame2018s1/blob/master/app/src/meeting2.docx)
 + [Meeting 3 - 11/5 - consider and plan extension aspects](https://gitlab.cecs.anu.edu.au/u6485142/RetroGame2018s1/blob/master/app/src/meeting3.docx)
 + [Meeting 4 - 16/5 - review and practice demo](https://gitlab.cecs.anu.edu.au/u6485142/RetroGame2018s1/blob/master/app/src/meeting4.docx)
-
-## Statement of Originality
-I _Wei Wang_ declare that everything I have submitted in this
-assignment is entirely my own work, with exceptions given below.
-
-I _Min Liu_ declare that everything I have submitted in this
-assignment is entirely my own work, with exceptions given below.
-
-I _Yuehan Zhao_ declare that everything I have submitted in this
-assignment is entirely my own work, with exceptions given below.
-
-
-I _Tingyu Pan_ declare that everything I have submitted in this
-assignment is entirely my own work, with exceptions given below.
 
 ### Inspiration
 _The idea of how to get the coordinate of the player in real time 
